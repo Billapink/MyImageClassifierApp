@@ -1,2 +1,0 @@
-Hello, this is a test file that demonstrates the process of a cloned github repository in a folder named after the repository, with .git files in it that 
-can be added (created staged changes to), committed, and pushed onto the github repository hosted on their server.
